@@ -1,6 +1,10 @@
 # Desafio Cientista de Dados 
 
-- Instalações
+a) Como instalar e executar o Projeto
 
-- Como executar o Projeto
+- Instalação:
+
+- Execução:
+
+b) Pacostes e Versões
 
