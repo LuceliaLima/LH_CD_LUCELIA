@@ -6,5 +6,8 @@ a) Como instalar e executar o Projeto
 
 - Execução:
 
-b) Pacostes e Versões
+b) Pacotes e Versões
+
+
+
 
