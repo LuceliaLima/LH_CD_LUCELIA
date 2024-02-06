@@ -8,7 +8,7 @@ a) Como instalar e executar o Projeto
 
 b) Pacotes e Versões
 
-
+### **Dicionário de variáveis:**
 
 *   **id** - Atua como uma chave exclusiva para cada anúncio nos dados do aplicativo
 *   **name** - O nome do anúncio (propriedade)
