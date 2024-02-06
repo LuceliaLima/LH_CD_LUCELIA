@@ -1,10 +1,10 @@
 # Desafio Cientista de Dados 
 
-Você foi alocado(a) em um time da Indicium que está trabalhando atualmente junto a um cliente no processo de criação de uma plataforma de aluguéis temporários na cidade de Nova York. Para o desenvolvimento de sua estratégia de precificação, pediu para que a Indicium fizesse uma análise exploratória dos dados de seu maior concorrente, assim como um teste de validação de um modelo preditivo.
+Você foi alocado(a) em um time da Indicium que está trabalhando atualmente junto a um cliente no processo de criação de uma plataforma de aluguéis temporários na cidade de Nova York.  Para o desenvolvimento de sua estratégia de precificação, pediu para que a Indicium fizesse uma **análise exploratória dos dados** de seu maior concorrente, assim como um **teste de validação de um modelo preditivo**.
 
-Objetivo:
-Desenvolver um modelo de previsão de preços a partir do dataset oferecido;
-Avaliar tal modelo utilizando as métricas de avaliação que mais fazem sentido para o problema.
+### Objetivo:
+- Desenvolver um modelo de previsão de **preços** a partir do dataset oferecido; 
+- Avaliar tal modelo utilizando as **métricas de avaliação** que mais fazem sentido para o problema. 
 
 ### **Dicionário de variáveis:**
 
