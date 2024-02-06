@@ -35,13 +35,13 @@ b) Pacotes e Versões
 
 Usaremos as seguintes bibliotecas para a análise:
 
-pandas - version: 2.2.0
-matplotlib - version: 3.7.2
-seaborn - version: 0.12.2
-plotly - version: 5.9.0
-scikit-learn - version: 1.3.0
-wordcloud - version: 1.9.3
-Python - version: 3.11.5
+* pandas - version: 2.2.0
+* matplotlib - version: 3.7.2
+* seaborn - version: 0.12.2
+* plotly - version: 5.9.0
+* scikit-learn - version: 1.3.0
+* wordcloud - version: 1.9.3
+* Python - version: 3.11.5
 
 
 
