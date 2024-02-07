@@ -51,9 +51,17 @@ a) Como instalar e executar o Projeto
 
 O projetom foi realizado no Jupyter notebook, caso não tem o Jupyter Notebook instalado, pode instalá-lo usando o pip (gerenciador de pacotes do Python) com o seguinte comando no terminal ou prompt de comando: pip install notebook. 
 
+Os resultados do Projeto foi salvo no formato pkl (packle) ao executar no Jupy necessario instalar com comando pip install pickle e importar a blioteca  com import pickle.
+
 - Execução:
 
 No terminal ou prompt de comando, execute o seguinte comando para iniciar o servidor do Jupyter Notebook: jupyter notebook. Após iniciar o servidor do Jupyter Notebook, o navegador padrão será aberto automaticamente exibindo o painel do Jupyter Notebook. Navegue até o diretório onde o projeto está localizado e clique no arquivo do notebook (.ipynb) para abri-lo.
+
+Para carregar o arquivo pickle use o seguinte comando: 
+
+with open("result_models.pkl", "rb") as f:
+    resultados = pickle.load(f)
+
 
 b) Pacotes e Versões
 
