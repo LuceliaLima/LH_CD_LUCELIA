@@ -45,13 +45,13 @@ fonte: https://pt.wikipedia.org/wiki/Boroughs_de_Nova_Iorque
 *   **calculado_host_listings_count** - Quantidade de imóveis por anfitrião.
 *   **disponibilidade_365** - Número de dias em que o anúncio está disponível para reserva em 365 dias
 
-a) Como instalar e executar o Projeto
+a) Como instalar e executar o Projeto:
 
 - Instalação:
 
 O projetom foi realizado no Jupyter notebook, caso não tem o Jupyter Notebook instalado, pode instalá-lo usando o pip (gerenciador de pacotes do Python) com o seguinte comando no terminal ou prompt de comando: pip install notebook. 
 
-Os resultados do Projeto foi salvo no formato pkl (packle) ao executar no Jupy necessario instalar com comando pip install pickle e importar a blioteca  com import pickle.
+Os resultados do Projeto foi salvo no formato pkl (packle) ao executar no Jupy necessário instalar com comando pip install pickle e importar a blioteca  com import pickle.
 
 - Execução:
 
