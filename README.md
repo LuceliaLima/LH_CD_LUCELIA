@@ -62,7 +62,7 @@ Para carregar o arquivo pickle use o seguinte comando:
 with open("result_models.pkl", "rb") as f:
     resultados = pickle.load(f)
 
-O arquivo.pkl se encontra na pasta 
+O arquivo.pkl se encontra na pasta pkl_file
 
 b) Pacotes e Versões
 
