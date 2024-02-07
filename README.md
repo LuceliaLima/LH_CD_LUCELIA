@@ -4,6 +4,24 @@
 
 Você foi alocado(a) em um time da Indicium que está trabalhando atualmente junto a um cliente no processo de criação de uma plataforma de aluguéis temporários na cidade de Nova York.  Para o desenvolvimento de sua estratégia de precificação, pediu para que a Indicium fizesse uma **análise exploratória dos dados** de seu maior concorrente, assim como um **teste de validação de um modelo preditivo**.
 
+## New York City
+
+A cidade de Nova York é mais populosa do que qualquer cidade brasileira. Com uma população de mais de 8 milhões de habitantes, Nova York é uma das cidades mais densamente povoadas dos Estados Unidos e é um centro cultural, econômico e político importante não só para o país, mas também para o mundo. 
+
+A cidade abrange cinco regiões chamadas **boroughs** são estes: Bronx, Brooklyn, Manhattan, Queens e Staten Island.
+
+
+
+- **1 - Manhattan é o grande centro**, é o coração de Nova York, é conhecida por seus arranha-céus icônicos, como o Empire State Building e o One World Trade Center. É o centro financeiro, comercial e cultural da cidade, abrigando instituições como Wall Street, a Broadway e a Times Square. 
+- **2 - Brookly** localizado ao sudoeste de Manhattan, é o **borough mais populoso de Nova York** e é conhecido por sua diversidade étnica e cultural e maiores instalações portuárias da cidade.
+- **3 - Queens** é uma mistura de **áreas residenciais, comerciais e industriais bem deversificada**, com grandes aeroportos e estádios de tênis e baisebol. 
+- **4 - Bronx** localizado ao norte de Manhattan, é o **local mais pobre e violento da cidade e do país.** 
+- **5 - Staten Island** situado ao sul de Manhattan, é conhecido por seu **ambiente mais suburbano** em comparação com os outros boroughs. Possui grandes áreas verdes e praias. 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/5_Boroughs_Labels_New_York_City_Map.svg/800px-5_Boroughs_Labels_New_York_City_Map.svg.png" width='65%'>
+fonte: https://pt.wikipedia.org/wiki/Boroughs_de_Nova_Iorque
+
+
 ### Objetivo:
 - Desenvolver um modelo de previsão de **preços** a partir do dataset oferecido; 
 - Avaliar tal modelo utilizando as **métricas de avaliação** que mais fazem sentido para o problema. 
