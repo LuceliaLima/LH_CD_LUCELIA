@@ -29,7 +29,11 @@ a) Como instalar e executar o Projeto
 
 - Instalação:
 
+O projetom foi realizado no Jupyter notebook, caso não tem o Jupyter Notebook instalado, pode instalá-lo usando o pip (gerenciador de pacotes do Python) com o seguinte comando no terminal ou prompt de comando: pip install notebook. 
+
 - Execução:
+
+No terminal ou prompt de comando, execute o seguinte comando para iniciar o servidor do Jupyter Notebook: jupyter notebook. Após iniciar o servidor do Jupyter Notebook, o navegador padrão será aberto automaticamente exibindo o painel do Jupyter Notebook. Navegue até o diretório onde o projeto está localizado e clique no arquivo do notebook (.ipynb) para abri-lo.
 
 b) Pacotes e Versões
 
