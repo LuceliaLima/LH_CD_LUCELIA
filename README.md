@@ -37,7 +37,7 @@ No terminal ou prompt de comando, execute o seguinte comando para iniciar o serv
 
 b) Pacotes e Versões
 
-Usaremos as seguintes bibliotecas para a análise:
+Foi utilizado as seguintes bibliotecas para a análise:
 
 * pandas - version: 2.2.0
 * matplotlib - version: 3.7.2
