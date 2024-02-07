@@ -84,7 +84,7 @@ Foi utilizado as seguintes bibliotecas para a análise:
 O relatório das análises estatísticas e EDA desse projeto se encontra na pasta report.
 
 
-### O Código:
+### Código:
 
 O código de modelagem no Jupyter Notebook desse projeto se encontra na pasta code.
 
