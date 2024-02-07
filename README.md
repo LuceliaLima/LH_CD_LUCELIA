@@ -1,5 +1,7 @@
 # Desafio Cientista de Dados 
 
+![Alt Text](https://github.com/LuceliaLima/desafio_CD/blob/main/img/NY.jpg?raw=true)
+
 Você foi alocado(a) em um time da Indicium que está trabalhando atualmente junto a um cliente no processo de criação de uma plataforma de aluguéis temporários na cidade de Nova York.  Para o desenvolvimento de sua estratégia de precificação, pediu para que a Indicium fizesse uma **análise exploratória dos dados** de seu maior concorrente, assim como um **teste de validação de um modelo preditivo**.
 
 ### Objetivo:
