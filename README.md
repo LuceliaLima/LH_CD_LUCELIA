@@ -62,6 +62,7 @@ Para carregar o arquivo pickle use o seguinte comando:
 with open("result_models.pkl", "rb") as f:
     resultados = pickle.load(f)
 
+O arquivo.pkl se encontra na pasta 
 
 b) Pacotes e Versões
 
@@ -78,4 +79,12 @@ Foi utilizado as seguintes bibliotecas para a análise:
 * Python - version: 3.11.5
 
 
+### Relatório:
+
+O relatório das análises estatísticas e EDA desse projeto se encontra na pasta report.
+
+
+### O Código:
+
+O código de modelagem no Jupyter Notebook desse projeto se encontra na pasta code.
 
